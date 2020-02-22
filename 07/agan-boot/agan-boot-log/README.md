@@ -1,7 +1,7 @@
-##一、本课程目标
+## 一、本课程目标
 学习springboot日志的框架，学完后会设置日志级别，设置日志的存储路径，设置日志的格式等
 
-##二、剖析springboot的日志框架
+## 二、剖析springboot的日志框架
 slf4j
 logback、log4j
 从springboot的底层框架spring-boot-starter-logging可以看出，它依赖了3个框架而别为：slf4j、logback、log4j
@@ -42,7 +42,7 @@ logging.pattern.console=%d{yyyy-MM-dd} [%thread] %-5level %logger{50} -%msg%n
 logging.pattern.file=%d{yyyy/MM/dd} === [%thread] == %-5level == %logger{50} == %msg%n
 ```    
 
-##五：课后练习
+## 五：课后练习
 自己搭建一个springboot项目,实现以下2个功能：<br>
 1.用try...catch捕获以下代码异常
 ```
