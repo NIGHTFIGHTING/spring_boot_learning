@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/agan-boot.iml" filepath="$PROJECT_DIR$/agan-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agan-boot-lombok/agan-boot-config.iml" filepath="$PROJECT_DIR$/agan-boot-lombok/agan-boot-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agan-boot-swagger/agan-boot-swagger.iml" filepath="$PROJECT_DIR$/agan-boot-swagger/agan-boot-swagger.iml" />
+    </modules>
+  </component>
+</project>
