@@ -2,3 +2,6 @@ https://study.163.com/series/1202811603.htm?share=1&shareId=1016481220
 目录：https://study.163.com/course/introduction.htm?courseId=1004576013&_trace_c_p_k2_=265d53723bb74aea8248b43ec6e439eb
 
 docker:https://coding.imooc.com/class/189.html
+
+Mac IDEA修改Edit Custom VM Options导致IDEA启动不起来
+找到自己对应的文件/Users/***/Library/Preferences/IntelliJIdea2019.1/idea.vmoptions进行修改
